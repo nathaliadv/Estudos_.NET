@@ -1,0 +1,15 @@
+C:\projetos\AprendendoCSharp\AprendendoCSharp\12_CaculoPoupanca3\bin\Debug\net5.0\12_CaculoPoupanca3.exe
+C:\projetos\AprendendoCSharp\AprendendoCSharp\12_CaculoPoupanca3\bin\Debug\net5.0\12_CaculoPoupanca3.deps.json
+C:\projetos\AprendendoCSharp\AprendendoCSharp\12_CaculoPoupanca3\bin\Debug\net5.0\12_CaculoPoupanca3.runtimeconfig.json
+C:\projetos\AprendendoCSharp\AprendendoCSharp\12_CaculoPoupanca3\bin\Debug\net5.0\12_CaculoPoupanca3.runtimeconfig.dev.json
+C:\projetos\AprendendoCSharp\AprendendoCSharp\12_CaculoPoupanca3\bin\Debug\net5.0\12_CaculoPoupanca3.dll
+C:\projetos\AprendendoCSharp\AprendendoCSharp\12_CaculoPoupanca3\bin\Debug\net5.0\ref\12_CaculoPoupanca3.dll
+C:\projetos\AprendendoCSharp\AprendendoCSharp\12_CaculoPoupanca3\bin\Debug\net5.0\12_CaculoPoupanca3.pdb
+C:\projetos\AprendendoCSharp\AprendendoCSharp\12_CaculoPoupanca3\obj\Debug\net5.0\12_CaculoPoupanca3.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\AprendendoCSharp\AprendendoCSharp\12_CaculoPoupanca3\obj\Debug\net5.0\12_CaculoPoupanca3.AssemblyInfoInputs.cache
+C:\projetos\AprendendoCSharp\AprendendoCSharp\12_CaculoPoupanca3\obj\Debug\net5.0\12_CaculoPoupanca3.AssemblyInfo.cs
+C:\projetos\AprendendoCSharp\AprendendoCSharp\12_CaculoPoupanca3\obj\Debug\net5.0\12_CaculoPoupanca3.csproj.CoreCompileInputs.cache
+C:\projetos\AprendendoCSharp\AprendendoCSharp\12_CaculoPoupanca3\obj\Debug\net5.0\12_CaculoPoupanca3.dll
+C:\projetos\AprendendoCSharp\AprendendoCSharp\12_CaculoPoupanca3\obj\Debug\net5.0\ref\12_CaculoPoupanca3.dll
+C:\projetos\AprendendoCSharp\AprendendoCSharp\12_CaculoPoupanca3\obj\Debug\net5.0\12_CaculoPoupanca3.pdb
+C:\projetos\AprendendoCSharp\AprendendoCSharp\12_CaculoPoupanca3\obj\Debug\net5.0\12_CaculoPoupanca3.genruntimeconfig.cache

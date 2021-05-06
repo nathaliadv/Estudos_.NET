@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ByteBank.StringRegexObject/1.0.0": {
+        "runtime": {
+          "ByteBank.StringRegexObject.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ByteBank.StringRegexObject/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\projetos\AprendendoCSharp\AprendendoCSharp\8_Condicionais2\bin\Debug\net5.0\8_Condicionais2.exe
+C:\projetos\AprendendoCSharp\AprendendoCSharp\8_Condicionais2\bin\Debug\net5.0\8_Condicionais2.deps.json
+C:\projetos\AprendendoCSharp\AprendendoCSharp\8_Condicionais2\bin\Debug\net5.0\8_Condicionais2.runtimeconfig.json
+C:\projetos\AprendendoCSharp\AprendendoCSharp\8_Condicionais2\bin\Debug\net5.0\8_Condicionais2.runtimeconfig.dev.json
+C:\projetos\AprendendoCSharp\AprendendoCSharp\8_Condicionais2\bin\Debug\net5.0\8_Condicionais2.dll
+C:\projetos\AprendendoCSharp\AprendendoCSharp\8_Condicionais2\bin\Debug\net5.0\ref\8_Condicionais2.dll
+C:\projetos\AprendendoCSharp\AprendendoCSharp\8_Condicionais2\bin\Debug\net5.0\8_Condicionais2.pdb
+C:\projetos\AprendendoCSharp\AprendendoCSharp\8_Condicionais2\obj\Debug\net5.0\8_Condicionais2.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\AprendendoCSharp\AprendendoCSharp\8_Condicionais2\obj\Debug\net5.0\8_Condicionais2.AssemblyInfoInputs.cache
+C:\projetos\AprendendoCSharp\AprendendoCSharp\8_Condicionais2\obj\Debug\net5.0\8_Condicionais2.AssemblyInfo.cs
+C:\projetos\AprendendoCSharp\AprendendoCSharp\8_Condicionais2\obj\Debug\net5.0\8_Condicionais2.csproj.CoreCompileInputs.cache
+C:\projetos\AprendendoCSharp\AprendendoCSharp\8_Condicionais2\obj\Debug\net5.0\8_Condicionais2.dll
+C:\projetos\AprendendoCSharp\AprendendoCSharp\8_Condicionais2\obj\Debug\net5.0\ref\8_Condicionais2.dll
+C:\projetos\AprendendoCSharp\AprendendoCSharp\8_Condicionais2\obj\Debug\net5.0\8_Condicionais2.pdb
+C:\projetos\AprendendoCSharp\AprendendoCSharp\8_Condicionais2\obj\Debug\net5.0\8_Condicionais2.genruntimeconfig.cache

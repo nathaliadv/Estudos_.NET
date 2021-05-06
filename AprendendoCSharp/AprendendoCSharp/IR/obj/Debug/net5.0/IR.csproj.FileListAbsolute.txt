@@ -1,0 +1,15 @@
+C:\projetos\AprendendoCSharp\AprendendoCSharp\IR\bin\Debug\net5.0\IR.exe
+C:\projetos\AprendendoCSharp\AprendendoCSharp\IR\bin\Debug\net5.0\IR.deps.json
+C:\projetos\AprendendoCSharp\AprendendoCSharp\IR\bin\Debug\net5.0\IR.runtimeconfig.json
+C:\projetos\AprendendoCSharp\AprendendoCSharp\IR\bin\Debug\net5.0\IR.runtimeconfig.dev.json
+C:\projetos\AprendendoCSharp\AprendendoCSharp\IR\bin\Debug\net5.0\IR.dll
+C:\projetos\AprendendoCSharp\AprendendoCSharp\IR\bin\Debug\net5.0\ref\IR.dll
+C:\projetos\AprendendoCSharp\AprendendoCSharp\IR\bin\Debug\net5.0\IR.pdb
+C:\projetos\AprendendoCSharp\AprendendoCSharp\IR\obj\Debug\net5.0\IR.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\AprendendoCSharp\AprendendoCSharp\IR\obj\Debug\net5.0\IR.AssemblyInfoInputs.cache
+C:\projetos\AprendendoCSharp\AprendendoCSharp\IR\obj\Debug\net5.0\IR.AssemblyInfo.cs
+C:\projetos\AprendendoCSharp\AprendendoCSharp\IR\obj\Debug\net5.0\IR.csproj.CoreCompileInputs.cache
+C:\projetos\AprendendoCSharp\AprendendoCSharp\IR\obj\Debug\net5.0\IR.dll
+C:\projetos\AprendendoCSharp\AprendendoCSharp\IR\obj\Debug\net5.0\ref\IR.dll
+C:\projetos\AprendendoCSharp\AprendendoCSharp\IR\obj\Debug\net5.0\IR.pdb
+C:\projetos\AprendendoCSharp\AprendendoCSharp\IR\obj\Debug\net5.0\IR.genruntimeconfig.cache

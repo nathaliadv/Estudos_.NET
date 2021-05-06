@@ -1,0 +1,16 @@
+C:\projetos\AprendendoCSharp\ByteBank6\ByteBank.StringRegexObject\bin\Debug\net5.0\ByteBank.StringRegexObject.exe
+C:\projetos\AprendendoCSharp\ByteBank6\ByteBank.StringRegexObject\bin\Debug\net5.0\ByteBank.StringRegexObject.deps.json
+C:\projetos\AprendendoCSharp\ByteBank6\ByteBank.StringRegexObject\bin\Debug\net5.0\ByteBank.StringRegexObject.runtimeconfig.json
+C:\projetos\AprendendoCSharp\ByteBank6\ByteBank.StringRegexObject\bin\Debug\net5.0\ByteBank.StringRegexObject.runtimeconfig.dev.json
+C:\projetos\AprendendoCSharp\ByteBank6\ByteBank.StringRegexObject\bin\Debug\net5.0\ByteBank.StringRegexObject.dll
+C:\projetos\AprendendoCSharp\ByteBank6\ByteBank.StringRegexObject\bin\Debug\net5.0\ref\ByteBank.StringRegexObject.dll
+C:\projetos\AprendendoCSharp\ByteBank6\ByteBank.StringRegexObject\bin\Debug\net5.0\ByteBank.StringRegexObject.pdb
+C:\projetos\AprendendoCSharp\ByteBank6\ByteBank.StringRegexObject\obj\Debug\net5.0\ByteBank.StringRegexObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\AprendendoCSharp\ByteBank6\ByteBank.StringRegexObject\obj\Debug\net5.0\ByteBank.StringRegexObject.AssemblyInfoInputs.cache
+C:\projetos\AprendendoCSharp\ByteBank6\ByteBank.StringRegexObject\obj\Debug\net5.0\ByteBank.StringRegexObject.AssemblyInfo.cs
+C:\projetos\AprendendoCSharp\ByteBank6\ByteBank.StringRegexObject\obj\Debug\net5.0\ByteBank.StringRegexObject.csproj.CoreCompileInputs.cache
+C:\projetos\AprendendoCSharp\ByteBank6\ByteBank.StringRegexObject\obj\Debug\net5.0\ByteBank.StringRegexObject.dll
+C:\projetos\AprendendoCSharp\ByteBank6\ByteBank.StringRegexObject\obj\Debug\net5.0\ref\ByteBank.StringRegexObject.dll
+C:\projetos\AprendendoCSharp\ByteBank6\ByteBank.StringRegexObject\obj\Debug\net5.0\ByteBank.StringRegexObject.pdb
+C:\projetos\AprendendoCSharp\ByteBank6\ByteBank.StringRegexObject\obj\Debug\net5.0\ByteBank.StringRegexObject.genruntimeconfig.cache
+C:\projetos\AprendendoCSharp\ByteBank6\ByteBank.StringRegexObject\obj\Debug\net5.0\ByteBank.StringRegexObject.csprojAssemblyReference.cache

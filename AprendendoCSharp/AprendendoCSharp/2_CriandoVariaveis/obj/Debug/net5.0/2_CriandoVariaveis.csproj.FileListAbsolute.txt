@@ -1,0 +1,16 @@
+C:\projetos\AprendendoCSharp\AprendendoCSharp\2_CriandoVariaveis\bin\Debug\net5.0\2_CriandoVariaveis.exe
+C:\projetos\AprendendoCSharp\AprendendoCSharp\2_CriandoVariaveis\bin\Debug\net5.0\2_CriandoVariaveis.deps.json
+C:\projetos\AprendendoCSharp\AprendendoCSharp\2_CriandoVariaveis\bin\Debug\net5.0\2_CriandoVariaveis.runtimeconfig.json
+C:\projetos\AprendendoCSharp\AprendendoCSharp\2_CriandoVariaveis\bin\Debug\net5.0\2_CriandoVariaveis.runtimeconfig.dev.json
+C:\projetos\AprendendoCSharp\AprendendoCSharp\2_CriandoVariaveis\bin\Debug\net5.0\2_CriandoVariaveis.dll
+C:\projetos\AprendendoCSharp\AprendendoCSharp\2_CriandoVariaveis\bin\Debug\net5.0\ref\2_CriandoVariaveis.dll
+C:\projetos\AprendendoCSharp\AprendendoCSharp\2_CriandoVariaveis\bin\Debug\net5.0\2_CriandoVariaveis.pdb
+C:\projetos\AprendendoCSharp\AprendendoCSharp\2_CriandoVariaveis\obj\Debug\net5.0\2_CriandoVariaveis.csprojAssemblyReference.cache
+C:\projetos\AprendendoCSharp\AprendendoCSharp\2_CriandoVariaveis\obj\Debug\net5.0\2_CriandoVariaveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\AprendendoCSharp\AprendendoCSharp\2_CriandoVariaveis\obj\Debug\net5.0\2_CriandoVariaveis.AssemblyInfoInputs.cache
+C:\projetos\AprendendoCSharp\AprendendoCSharp\2_CriandoVariaveis\obj\Debug\net5.0\2_CriandoVariaveis.AssemblyInfo.cs
+C:\projetos\AprendendoCSharp\AprendendoCSharp\2_CriandoVariaveis\obj\Debug\net5.0\2_CriandoVariaveis.csproj.CoreCompileInputs.cache
+C:\projetos\AprendendoCSharp\AprendendoCSharp\2_CriandoVariaveis\obj\Debug\net5.0\2_CriandoVariaveis.dll
+C:\projetos\AprendendoCSharp\AprendendoCSharp\2_CriandoVariaveis\obj\Debug\net5.0\ref\2_CriandoVariaveis.dll
+C:\projetos\AprendendoCSharp\AprendendoCSharp\2_CriandoVariaveis\obj\Debug\net5.0\2_CriandoVariaveis.pdb
+C:\projetos\AprendendoCSharp\AprendendoCSharp\2_CriandoVariaveis\obj\Debug\net5.0\2_CriandoVariaveis.genruntimeconfig.cache

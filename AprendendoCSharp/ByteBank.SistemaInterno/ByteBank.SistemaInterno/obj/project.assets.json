@@ -1,0 +1,102 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "Humanizer.Core/2.9.7": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Humanizer.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Humanizer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Humanizer.Core/2.9.7": {
+      "sha512": "I9g3rRtxh7VTpdP6dLXU9lx8AFwFHWfxZUUF+uZHxXOajSN1/vRCN3l2ryD8TxLxLj8yHzGa4nJfbElDS+o9QA==",
+      "type": "package",
+      "path": "humanizer.core/2.9.7",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "humanizer.core.2.9.7.nupkg.sha512",
+        "humanizer.core.nuspec",
+        "lib/netstandard1.0/Humanizer.dll",
+        "lib/netstandard1.0/Humanizer.xml",
+        "lib/netstandard2.0/Humanizer.dll",
+        "lib/netstandard2.0/Humanizer.xml",
+        "logo.png"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "Humanizer.Core >= 2.9.7"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\natti\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\projetos\\AprendendoCSharp\\ByteBank.SistemaInterno\\ByteBank.SistemaInterno\\ByteBank.SistemaInterno.csproj",
+      "projectName": "ByteBank.SistemaInterno",
+      "projectPath": "C:\\projetos\\AprendendoCSharp\\ByteBank.SistemaInterno\\ByteBank.SistemaInterno\\ByteBank.SistemaInterno.csproj",
+      "packagesPath": "C:\\Users\\natti\\.nuget\\packages\\",
+      "outputPath": "C:\\projetos\\AprendendoCSharp\\ByteBank.SistemaInterno\\ByteBank.SistemaInterno\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\natti\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "dependencies": {
+          "Humanizer.Core": {
+            "target": "Package",
+            "version": "[2.9.7, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

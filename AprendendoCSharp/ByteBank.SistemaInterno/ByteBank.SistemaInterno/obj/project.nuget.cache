@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wb9YvUbYWw5gexWHPBIL0tiI532JkgcENvJPENH5Nczb9T7qw6ukH2a7fZBe1m+AVKdlustNMQIgOWq8Q5DmdA==",
+  "success": true,
+  "projectFilePath": "C:\\projetos\\AprendendoCSharp\\ByteBank.SistemaInterno\\ByteBank.SistemaInterno\\ByteBank.SistemaInterno.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\natti\\.nuget\\packages\\humanizer.core\\2.9.7\\humanizer.core.2.9.7.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+C:\projetos\AprendendoCSharp\AprendendoCSharp\11_CalculaPopanca2\bin\Debug\net5.0\11_CalculaPopanca2.exe
+C:\projetos\AprendendoCSharp\AprendendoCSharp\11_CalculaPopanca2\bin\Debug\net5.0\11_CalculaPopanca2.deps.json
+C:\projetos\AprendendoCSharp\AprendendoCSharp\11_CalculaPopanca2\bin\Debug\net5.0\11_CalculaPopanca2.runtimeconfig.json
+C:\projetos\AprendendoCSharp\AprendendoCSharp\11_CalculaPopanca2\bin\Debug\net5.0\11_CalculaPopanca2.runtimeconfig.dev.json
+C:\projetos\AprendendoCSharp\AprendendoCSharp\11_CalculaPopanca2\bin\Debug\net5.0\11_CalculaPopanca2.dll
+C:\projetos\AprendendoCSharp\AprendendoCSharp\11_CalculaPopanca2\bin\Debug\net5.0\ref\11_CalculaPopanca2.dll
+C:\projetos\AprendendoCSharp\AprendendoCSharp\11_CalculaPopanca2\bin\Debug\net5.0\11_CalculaPopanca2.pdb
+C:\projetos\AprendendoCSharp\AprendendoCSharp\11_CalculaPopanca2\obj\Debug\net5.0\11_CalculaPopanca2.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\AprendendoCSharp\AprendendoCSharp\11_CalculaPopanca2\obj\Debug\net5.0\11_CalculaPopanca2.AssemblyInfoInputs.cache
+C:\projetos\AprendendoCSharp\AprendendoCSharp\11_CalculaPopanca2\obj\Debug\net5.0\11_CalculaPopanca2.AssemblyInfo.cs
+C:\projetos\AprendendoCSharp\AprendendoCSharp\11_CalculaPopanca2\obj\Debug\net5.0\11_CalculaPopanca2.csproj.CoreCompileInputs.cache
+C:\projetos\AprendendoCSharp\AprendendoCSharp\11_CalculaPopanca2\obj\Debug\net5.0\11_CalculaPopanca2.dll
+C:\projetos\AprendendoCSharp\AprendendoCSharp\11_CalculaPopanca2\obj\Debug\net5.0\ref\11_CalculaPopanca2.dll
+C:\projetos\AprendendoCSharp\AprendendoCSharp\11_CalculaPopanca2\obj\Debug\net5.0\11_CalculaPopanca2.pdb
+C:\projetos\AprendendoCSharp\AprendendoCSharp\11_CalculaPopanca2\obj\Debug\net5.0\11_CalculaPopanca2.genruntimeconfig.cache

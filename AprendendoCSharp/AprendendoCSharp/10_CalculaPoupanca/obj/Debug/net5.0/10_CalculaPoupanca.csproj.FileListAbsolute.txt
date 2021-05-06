@@ -1,0 +1,15 @@
+C:\projetos\AprendendoCSharp\AprendendoCSharp\10_CalculaPoupanca\bin\Debug\net5.0\10_CalculaPoupanca.exe
+C:\projetos\AprendendoCSharp\AprendendoCSharp\10_CalculaPoupanca\bin\Debug\net5.0\10_CalculaPoupanca.deps.json
+C:\projetos\AprendendoCSharp\AprendendoCSharp\10_CalculaPoupanca\bin\Debug\net5.0\10_CalculaPoupanca.runtimeconfig.json
+C:\projetos\AprendendoCSharp\AprendendoCSharp\10_CalculaPoupanca\bin\Debug\net5.0\10_CalculaPoupanca.runtimeconfig.dev.json
+C:\projetos\AprendendoCSharp\AprendendoCSharp\10_CalculaPoupanca\bin\Debug\net5.0\10_CalculaPoupanca.dll
+C:\projetos\AprendendoCSharp\AprendendoCSharp\10_CalculaPoupanca\bin\Debug\net5.0\ref\10_CalculaPoupanca.dll
+C:\projetos\AprendendoCSharp\AprendendoCSharp\10_CalculaPoupanca\bin\Debug\net5.0\10_CalculaPoupanca.pdb
+C:\projetos\AprendendoCSharp\AprendendoCSharp\10_CalculaPoupanca\obj\Debug\net5.0\10_CalculaPoupanca.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\AprendendoCSharp\AprendendoCSharp\10_CalculaPoupanca\obj\Debug\net5.0\10_CalculaPoupanca.AssemblyInfoInputs.cache
+C:\projetos\AprendendoCSharp\AprendendoCSharp\10_CalculaPoupanca\obj\Debug\net5.0\10_CalculaPoupanca.AssemblyInfo.cs
+C:\projetos\AprendendoCSharp\AprendendoCSharp\10_CalculaPoupanca\obj\Debug\net5.0\10_CalculaPoupanca.csproj.CoreCompileInputs.cache
+C:\projetos\AprendendoCSharp\AprendendoCSharp\10_CalculaPoupanca\obj\Debug\net5.0\10_CalculaPoupanca.dll
+C:\projetos\AprendendoCSharp\AprendendoCSharp\10_CalculaPoupanca\obj\Debug\net5.0\ref\10_CalculaPoupanca.dll
+C:\projetos\AprendendoCSharp\AprendendoCSharp\10_CalculaPoupanca\obj\Debug\net5.0\10_CalculaPoupanca.pdb
+C:\projetos\AprendendoCSharp\AprendendoCSharp\10_CalculaPoupanca\obj\Debug\net5.0\10_CalculaPoupanca.genruntimeconfig.cache

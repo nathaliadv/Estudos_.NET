@@ -1,0 +1,16 @@
+C:\projetos\AprendendoCSharp\AprendendoCSharp\3_CriandoVariaveisDouble\bin\Debug\net5.0\3_CriandoVariaveisDouble.exe
+C:\projetos\AprendendoCSharp\AprendendoCSharp\3_CriandoVariaveisDouble\bin\Debug\net5.0\3_CriandoVariaveisDouble.deps.json
+C:\projetos\AprendendoCSharp\AprendendoCSharp\3_CriandoVariaveisDouble\bin\Debug\net5.0\3_CriandoVariaveisDouble.runtimeconfig.json
+C:\projetos\AprendendoCSharp\AprendendoCSharp\3_CriandoVariaveisDouble\bin\Debug\net5.0\3_CriandoVariaveisDouble.runtimeconfig.dev.json
+C:\projetos\AprendendoCSharp\AprendendoCSharp\3_CriandoVariaveisDouble\bin\Debug\net5.0\3_CriandoVariaveisDouble.dll
+C:\projetos\AprendendoCSharp\AprendendoCSharp\3_CriandoVariaveisDouble\bin\Debug\net5.0\ref\3_CriandoVariaveisDouble.dll
+C:\projetos\AprendendoCSharp\AprendendoCSharp\3_CriandoVariaveisDouble\bin\Debug\net5.0\3_CriandoVariaveisDouble.pdb
+C:\projetos\AprendendoCSharp\AprendendoCSharp\3_CriandoVariaveisDouble\obj\Debug\net5.0\3_CriandoVariaveisDouble.csprojAssemblyReference.cache
+C:\projetos\AprendendoCSharp\AprendendoCSharp\3_CriandoVariaveisDouble\obj\Debug\net5.0\3_CriandoVariaveisDouble.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\AprendendoCSharp\AprendendoCSharp\3_CriandoVariaveisDouble\obj\Debug\net5.0\3_CriandoVariaveisDouble.AssemblyInfoInputs.cache
+C:\projetos\AprendendoCSharp\AprendendoCSharp\3_CriandoVariaveisDouble\obj\Debug\net5.0\3_CriandoVariaveisDouble.AssemblyInfo.cs
+C:\projetos\AprendendoCSharp\AprendendoCSharp\3_CriandoVariaveisDouble\obj\Debug\net5.0\3_CriandoVariaveisDouble.csproj.CoreCompileInputs.cache
+C:\projetos\AprendendoCSharp\AprendendoCSharp\3_CriandoVariaveisDouble\obj\Debug\net5.0\3_CriandoVariaveisDouble.dll
+C:\projetos\AprendendoCSharp\AprendendoCSharp\3_CriandoVariaveisDouble\obj\Debug\net5.0\ref\3_CriandoVariaveisDouble.dll
+C:\projetos\AprendendoCSharp\AprendendoCSharp\3_CriandoVariaveisDouble\obj\Debug\net5.0\3_CriandoVariaveisDouble.pdb
+C:\projetos\AprendendoCSharp\AprendendoCSharp\3_CriandoVariaveisDouble\obj\Debug\net5.0\3_CriandoVariaveisDouble.genruntimeconfig.cache

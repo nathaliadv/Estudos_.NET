@@ -1,0 +1,15 @@
+C:\projetos\AprendendoCSharp\AprendendoCSharp\Mes\bin\Debug\net5.0\Mes.exe
+C:\projetos\AprendendoCSharp\AprendendoCSharp\Mes\bin\Debug\net5.0\Mes.deps.json
+C:\projetos\AprendendoCSharp\AprendendoCSharp\Mes\bin\Debug\net5.0\Mes.runtimeconfig.json
+C:\projetos\AprendendoCSharp\AprendendoCSharp\Mes\bin\Debug\net5.0\Mes.runtimeconfig.dev.json
+C:\projetos\AprendendoCSharp\AprendendoCSharp\Mes\bin\Debug\net5.0\Mes.dll
+C:\projetos\AprendendoCSharp\AprendendoCSharp\Mes\bin\Debug\net5.0\ref\Mes.dll
+C:\projetos\AprendendoCSharp\AprendendoCSharp\Mes\bin\Debug\net5.0\Mes.pdb
+C:\projetos\AprendendoCSharp\AprendendoCSharp\Mes\obj\Debug\net5.0\Mes.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\AprendendoCSharp\AprendendoCSharp\Mes\obj\Debug\net5.0\Mes.AssemblyInfoInputs.cache
+C:\projetos\AprendendoCSharp\AprendendoCSharp\Mes\obj\Debug\net5.0\Mes.AssemblyInfo.cs
+C:\projetos\AprendendoCSharp\AprendendoCSharp\Mes\obj\Debug\net5.0\Mes.csproj.CoreCompileInputs.cache
+C:\projetos\AprendendoCSharp\AprendendoCSharp\Mes\obj\Debug\net5.0\Mes.dll
+C:\projetos\AprendendoCSharp\AprendendoCSharp\Mes\obj\Debug\net5.0\ref\Mes.dll
+C:\projetos\AprendendoCSharp\AprendendoCSharp\Mes\obj\Debug\net5.0\Mes.pdb
+C:\projetos\AprendendoCSharp\AprendendoCSharp\Mes\obj\Debug\net5.0\Mes.genruntimeconfig.cache

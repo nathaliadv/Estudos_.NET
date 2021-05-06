@@ -1,0 +1,16 @@
+C:\projetos\AprendendoCSharp\AprendendoCSharp\1_PrimeiroProjeto\bin\Debug\net5.0\1_PrimeiroProjeto.exe
+C:\projetos\AprendendoCSharp\AprendendoCSharp\1_PrimeiroProjeto\bin\Debug\net5.0\1_PrimeiroProjeto.deps.json
+C:\projetos\AprendendoCSharp\AprendendoCSharp\1_PrimeiroProjeto\bin\Debug\net5.0\1_PrimeiroProjeto.runtimeconfig.json
+C:\projetos\AprendendoCSharp\AprendendoCSharp\1_PrimeiroProjeto\bin\Debug\net5.0\1_PrimeiroProjeto.runtimeconfig.dev.json
+C:\projetos\AprendendoCSharp\AprendendoCSharp\1_PrimeiroProjeto\bin\Debug\net5.0\1_PrimeiroProjeto.dll
+C:\projetos\AprendendoCSharp\AprendendoCSharp\1_PrimeiroProjeto\bin\Debug\net5.0\ref\1_PrimeiroProjeto.dll
+C:\projetos\AprendendoCSharp\AprendendoCSharp\1_PrimeiroProjeto\bin\Debug\net5.0\1_PrimeiroProjeto.pdb
+C:\projetos\AprendendoCSharp\AprendendoCSharp\1_PrimeiroProjeto\obj\Debug\net5.0\1_PrimeiroProjeto.csprojAssemblyReference.cache
+C:\projetos\AprendendoCSharp\AprendendoCSharp\1_PrimeiroProjeto\obj\Debug\net5.0\1_PrimeiroProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\AprendendoCSharp\AprendendoCSharp\1_PrimeiroProjeto\obj\Debug\net5.0\1_PrimeiroProjeto.AssemblyInfoInputs.cache
+C:\projetos\AprendendoCSharp\AprendendoCSharp\1_PrimeiroProjeto\obj\Debug\net5.0\1_PrimeiroProjeto.AssemblyInfo.cs
+C:\projetos\AprendendoCSharp\AprendendoCSharp\1_PrimeiroProjeto\obj\Debug\net5.0\1_PrimeiroProjeto.csproj.CoreCompileInputs.cache
+C:\projetos\AprendendoCSharp\AprendendoCSharp\1_PrimeiroProjeto\obj\Debug\net5.0\1_PrimeiroProjeto.dll
+C:\projetos\AprendendoCSharp\AprendendoCSharp\1_PrimeiroProjeto\obj\Debug\net5.0\ref\1_PrimeiroProjeto.dll
+C:\projetos\AprendendoCSharp\AprendendoCSharp\1_PrimeiroProjeto\obj\Debug\net5.0\1_PrimeiroProjeto.pdb
+C:\projetos\AprendendoCSharp\AprendendoCSharp\1_PrimeiroProjeto\obj\Debug\net5.0\1_PrimeiroProjeto.genruntimeconfig.cache
