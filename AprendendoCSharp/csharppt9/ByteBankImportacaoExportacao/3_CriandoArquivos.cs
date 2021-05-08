@@ -46,6 +46,9 @@ namespace ByteBankImportacaoExportacao
                 for(var i = 0; i < 1000000; i++)
                 {
                     escritor.WriteLine($"Linha {i}");
+                    escritor.Flush(); //despeja o buffer para o Stream
+
+                    Console.WriteLine($"Linha {i} foi escrita no arquivo. Tecle enter para adicionar mais uma");
                     Console.ReadLine();
                 }
             }

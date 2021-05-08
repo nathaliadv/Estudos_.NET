@@ -1,0 +1,1 @@
+Testando o WriteAllText da classe File

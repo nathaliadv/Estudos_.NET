@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\AprendendoCSharp",
+    "\\AprendendoCSharp\\csharppt9",
+    "\\AprendendoCSharp\\csharppt9\\ByteBankImportacaoExportacao"
   ],
+  "SelectedNode": "\\AprendendoCSharp\\csharppt9\\ByteBankImportacaoExportacao\\1_LidandoComStreamDiretamente.cs",
   "PreviewInSolutionExplorer": false
 }

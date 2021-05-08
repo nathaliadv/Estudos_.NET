@@ -45,10 +45,12 @@
     <Compile Include="1_LidandoComStreamDiretamente.cs" />
     <Compile Include="2_UsandoStreamReader.cs" />
     <Compile Include="3_CriandoArquivos.cs" />
+    <Compile Include="4_StreamBinario.cs" />
     <Compile Include="Modelos\Cliente.cs" />
     <Compile Include="Modelos\ContaCorrente.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="5_UsandoStreamDeEntradaDaConsole.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

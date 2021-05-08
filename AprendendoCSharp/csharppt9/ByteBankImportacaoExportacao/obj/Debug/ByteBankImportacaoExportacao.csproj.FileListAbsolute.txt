@@ -5,3 +5,10 @@ C:\projetos\AprendendoCSharp\csharppt9\ByteBankImportacaoExportacao\obj\Debug\By
 C:\projetos\AprendendoCSharp\csharppt9\ByteBankImportacaoExportacao\obj\Debug\ByteBankImportacaoExportacao.csproj.CoreCompileInputs.cache
 C:\projetos\AprendendoCSharp\csharppt9\ByteBankImportacaoExportacao\obj\Debug\ByteBankImportacaoExportacao.exe
 C:\projetos\AprendendoCSharp\csharppt9\ByteBankImportacaoExportacao\obj\Debug\ByteBankImportacaoExportacao.pdb
+C:\projetos\Estudos_.NET\AprendendoCSharp\csharppt9\ByteBankImportacaoExportacao\bin\Debug\ByteBankImportacaoExportacao.exe.config
+C:\projetos\Estudos_.NET\AprendendoCSharp\csharppt9\ByteBankImportacaoExportacao\bin\Debug\ByteBankImportacaoExportacao.exe
+C:\projetos\Estudos_.NET\AprendendoCSharp\csharppt9\ByteBankImportacaoExportacao\bin\Debug\ByteBankImportacaoExportacao.pdb
+C:\projetos\Estudos_.NET\AprendendoCSharp\csharppt9\ByteBankImportacaoExportacao\obj\Debug\ByteBankImportacaoExportacao.csprojAssemblyReference.cache
+C:\projetos\Estudos_.NET\AprendendoCSharp\csharppt9\ByteBankImportacaoExportacao\obj\Debug\ByteBankImportacaoExportacao.csproj.CoreCompileInputs.cache
+C:\projetos\Estudos_.NET\AprendendoCSharp\csharppt9\ByteBankImportacaoExportacao\obj\Debug\ByteBankImportacaoExportacao.exe
+C:\projetos\Estudos_.NET\AprendendoCSharp\csharppt9\ByteBankImportacaoExportacao\obj\Debug\ByteBankImportacaoExportacao.pdb
