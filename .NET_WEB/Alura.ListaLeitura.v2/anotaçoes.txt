@@ -1,0 +1,15 @@
+Partes dessa solução:
+Parte de atendimento das requisições
+Parte vista pelo usuário
+Parte das classes de negócio 
+Parte das classes de acesso a dados da aplicação
+Arquivo de Inicialização da aplicação
+Arquivo que Cria e sobe servidor
+
+
+MVC - Model, View e Controler.
+Lógica - controller
+Négocio - model
+HTML - view
+
+---------------------------------------------------------------------------

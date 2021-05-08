@@ -1,0 +1,4 @@
+Para convenção de view do Asp.Net Core MVC, os arquivos HTML deverão estar armazenados em diretórios Views/nome será o prefixo do nomeDoController/arquivo.cshtml
+
+
+No projeto, foi necessário, em "Editar Arquivo do Projeto", incluir a tag PreserveCompilationContext e colocar o valor de "true" entre a tag. Quando ela está habilitada indica-se que as Views serão compiladas em tempo de execução. Ela pode ser desligada e usada em conjunto com outras opções para pré-compilar as views e assim diminuir o tempo de espera do usuário ao solicitar aquela view específica.
