@@ -1,0 +1,80 @@
+﻿<!-- ViewData é um dicionario de dados que é passado e renderizado pela view, assim como o modelo, para capturar alguma 
+    informação.-->
+@{ 
+    ViewData["Title"] = "Carrossel";
+}
+
+<!-- Para declarar com qual modelo (lista de produtos) a página Razor irá trabalhar, utilizamos a diretiva
+    "arromba model". Para acessar as propriedades do modelo, precisamos utilizar o objeto Model com letra maiuscula.-->
+@model List<Produto>;
+
+<h3>Catálogo</h3>
+
+<div id="my-carousel" class="carousel slide" data-ride="carousel">
+    <!-- Wrapper for slides -->
+    <div class="carousel-inner" role="listbox">
+            @{ 
+                const int TAMANHO_PAGINA = 4;
+                int paginas = (int)Math.Ceiling((double)Model.Count() / TAMANHO_PAGINA);
+            }
+
+            @for (int pagina = 0; pagina < paginas; pagina++)
+            {
+                //Pagina igual a zero corresponde a primeira página
+             <div class="item @(pagina == 0 ? "active" : "")"> 
+                <div class="row">
+
+                    @{ 
+                        var produtosDaPagina = Model.Skip(pagina * TAMANHO_PAGINA).Take(TAMANHO_PAGINA); 
+                        //Skipe = pulando uma quantidade de elementos | Take = Pegar os 4 primeiros
+                    }
+
+                    @foreach (var produto in produtosDaPagina)
+                    {
+                        <div class="col-md-3 col-sm-3 col-lg-3">
+                            <div class="panel panel-default">
+                                <div class="panel-body">
+                                    <img class="img-produto-carrossel" src="/images/produtos/large_@(produto.Codigo).jpg" />
+                                </div>
+                                <div class="panel-footer produto-footer">
+                                    <div class="produto-nome">@produto.Nome</div>
+                                    <div><h4><strong></strong>@produto.Preco</h4></div>
+                                    <div class="text-center">
+                                        <a asp-controller="pedido" 
+                                           asp-action="carrinho" 
+                                           asp-route-codigo="@produto.Codigo"
+                                           class="btn btn-success">Adicionar</a>
+                                        <!--Tag helper: usado na inclusão de um atributo especial que se inicia com 
+                                            a palavra "asp". Usamos asp-controller porque queremos navegar para uma
+                                            action de um determinado controller, nesse caso pedido. Esse tipo de tag
+                                            é usado pelo motor Razor, mecanismo de renderização, para criar html de forma
+                                            mais natural. Parece que está sendo colocado uma propriedade html, mas na 
+                                            verdade estamos usando um componente do ASP.NET Core-
+                                            O asp-route-codigo é usado para passar a informação do código do produto para
+                                            a action do nosso controller via querystring. A chave usada é justamente o
+                                            complemento que colocamos no final da tag: asp-route-CHAVE. -->
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    }
+
+                </div>
+             </div>
+            
+             }
+
+
+        
+    </div>
+
+    <!-- Controls -->
+    <a class="left carousel-control" href="#my-carousel" role="button" data-slide="prev">
+        <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+        <span class="sr-only">Previous</span>
+    </a>
+    <a class="right carousel-control" href="#my-carousel" role="button" data-slide="next">
+        <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+        <span class="sr-only">Next</span>
+    </a>
+</div>
