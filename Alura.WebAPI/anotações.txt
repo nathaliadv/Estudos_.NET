@@ -1,0 +1,19 @@
+Roteamento padrão MVC:
+-O primeiro segmento é o controlador.
+-O segundo segmento é a action, que é o método dentro daquela classe.
+- E o terceiro segmento é opcional, é o identificador (ID). Pode ser o ID de algum recurso, de alguma entidade.
+
+Em API, como usamos o GET, POST, PUT, DELETE ..., para especificar a ação que será feita, a rota agora não precisar levar o nome da action. Ou seja, não temos mais o roteamento padrão do MVC. 
+
+-----
+
+Content Negociation
+
+O cliente está pedindo no cabeçalho da requisição um tipo específico de formato de conteúdo e o servidor tentará atender o recurso. (accept : application/xml)
+O AspNet Core por paddrão só tem disponível o serializador para Json. Para entregar o conteúdo com XML, por exemplo, é necessário adicionar um pacote no projeto. 
+Para isso, foi instalado o pacote Microsoft.AspNetCore.Mvc.Formatters.Xml e depois feita a configuração na classe Startup, no serviço MVC foi adicionado a serialização XML através do método: services.AddMvc().AddXmlDataContractSerializerFormatters().
+
+Pode ser criador tbm um formatador que herda da classe abstrata TextOutputFormatter.
+
+-----
+
